@@ -4,7 +4,7 @@ body {
   height: 100vh;
   width: 110vh;
    margin: 0;
-   background: #eaeaea;
+   background:#eaeaea;
 }
 main {
   display: flex;
@@ -23,7 +23,7 @@ aside {
   flex: 1;
   overflow-y: auto;
   padding: 1rem; 
-   background-color:#eaeaea;;
+   background-color:#eaeaea;
 }
 header, footer {
   padding: 1rem;
